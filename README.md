@@ -1,4 +1,4 @@
-# AICS-201 Assessment 01
+# AICS-201 International Cybersecurity and Digital Forensic Academy
 ## AI Ethics, Governance, Legal Compliance, Algorithmic Fairness & Explainability
 
 **Case Study:** SecureFinance Africa  
